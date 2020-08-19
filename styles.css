@@ -16,3 +16,21 @@ h1{
 p,h2,h5{
   color:white;
 }
+h4{
+  color: white;
+}
+.grey{
+  color: grey;
+}
+.green{
+  color:green;
+}
+.yellow{
+  color:yellow;
+}
+.red{
+  color:red;
+}
+.blue{
+  color:blue;
+}
