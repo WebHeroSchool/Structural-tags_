@@ -1,0 +1,18 @@
+body{
+  background: url(home-design.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#main{
+  background-color: white;
+  color:black;
+}
+h3 {
+  color: orange;
+}
+h1{
+  color:green;
+}
+p,h2,h5{
+  color:white;
+}
